@@ -1,0 +1,15 @@
+.env
+Project/.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+database/*.db-*
+Project/database/*.db-*
+Project/processed/
+Project/output/
+Project/database/chroma_store/
+.git/
+.taste-skill/
+Phasewise_AI.pdf
+csv_report.txt

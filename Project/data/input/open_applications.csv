@@ -1,0 +1,46 @@
+application_reference,source_portal,revision_number,installer_reference,premises_reference,substation_reference,region_type,premises_type,technology,urgency,supply_phases,equipment_phases,service_type,looped_service,cut_out_rating_amps,earthing_arrangement,max_demand_after_connection_amps,load_limiter_fitted,load_limiter_setting_amps,rated_current_amps,charging_current_amps,inverter_capacity_kw,existing_generation_kw,export_limitation_fitted,export_scheme_certified,export_limit_kw,register_listed,smart_charging,single_controller,power_factor,open_pen_protection,earth_electrode_ohms,loss_of_mains_set,isolator_fitted,existing_lct_count,installer_planned_working_days,supporting_document_count
+52174,SiteWren,1,INS-1449,PRM9301281,SS-0414,RUR,FARM,EVCP,STD,3,3,U/G,FALSE,100,TNCS,41,FALSE,-,22080W,-,-,-,-,-,-,TRUE,TRUE,-,-,TRUE,-,-,-,0,10 working days,3
+LC-52144,InstallerLine,1,INS-1383,PRM9302111,SS-0470,Suburban area,Semi,V2G charger,Routine,1ph,1ph,UG,N,100 amp,PME,11.96kVA,N,,32A,,7 kW,0 kW,N,,,Y,Y,,,Y,,Y,,0,13 WD,3
+LCT0052157,Wattcroft,1,INS-1256,PRM9301244,SS-0417,Suburban,Detached house,EV charge point,Standard,single,single,Underground,No,100A,TN-S,62A,Yes,not recorded,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,Yes,N/A,N/A,N/A,N/A,N/A,N/A,0,9,3
+52163,SiteWren,1,INS-1483,PRM9301554,SS-0331,SUB,DET,HP,HTG-FAIL,3,1,U/G,FALSE,100,TNCS,40,FALSE,-,4140W,-,-,-,-,-,-,TRUE,-,TRUE,97%,-,-,-,-,1,8 working days,3
+LCT0052186,Wattcroft,1,INS-1246,PRM9301289,SS-0259,Urban,Semi-detached house,EV charge point,Standard,single,single,Underground,No,60A,TN-C-S,48A,No,N/A,32 amps,N/A,N/A,N/A,N/A,N/A,N/A,No,No,N/A,N/A,Yes,N/A,N/A,N/A,0,26,2
+LC-52121,InstallerLine,1,INS-1386,PRM9301729,SS-0502,Suburban area,Detached,Solar panels,Routine,1ph,1ph,UG,N,100 amp,PME,40A,N,,,,6 kW,0 kW,Y,Y,5 kW,Y,,,,,,Y,Y,0,17 WD,3
+LC-52177,InstallerLine,2,INS-1324,PRM9301205,SS-0321,Suburban area,Semi,EV charger,Routine,1ph,1ph,UG,N,80 amp,PME,64A,Y,55A,32A,,,,,,,Y,Y,,,Y,,,,0,18 WD,3
+LCT0052104,Wattcroft,1,INS-1270,PRM9301017,SS-0293,Urban,Terraced house,EV charge point,Standard,single,single,Underground,No,100A,TN-C-S,58A,No,N/A,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,yes,N/A,N/A,Yes,N/A,N/A,N/A,0,10,3
+LCT0052207,Wattcroft,1,INS-1270,PRM9302202,SS-0261,Urban,Semi-detached house,Vehicle-to-grid charge point,Standard,single,single,Underground,No,100A,TN-C-S,49A,No,N/A,32 amps,N/A,3.6kW,0kW,No,N/A,N/A,not recorded,Yes,N/A,N/A,Yes,N/A,Yes,N/A,0,23,1
+52172,SiteWren,1,INS-1483,PRM9302143,SS-0143,RUR,DET,V2G,STD,1,1,U/G,FALSE,100,TT,47,FALSE,-,32,-,7000W,0W,TRUE,TRUE,3680W,TRUE,TRUE,-,-,-,0.08kΩ,FALSE,-,0,16 working days,2
+52217,SiteWren,2,INS-1493,PRM9301623,SS-0173,RUR,FARM,HP,STD,1,1,U/G,FALSE,100,TNCS,48,FALSE,-,25,-,-,-,-,-,-,TRUE,-,TRUE,96%,-,-,-,-,0,15 working days,3
+LCT0052142,Wattcroft,1,INS-1256,PRM9301150,SS-0506,Urban,Terraced house,EV charge point,Standard,single,single,Underground,Yes,100A,TN-C-S,49 amps,No,N/A,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,Yes,N/A,N/A,Yes,N/A,N/A,N/A,0,14,3
+LC-52177,InstallerLine,1,INS-1324,PRM9301205,SS-0321,Suburban area,Semi,EV charger,Routine,1ph,1ph,UG,N,80 amp,PME,64A,Y,TBC,32A,,,,,,,Y,Y,,,Y,,,,0,18 WD,3
+LC-52195,InstallerLine,1,INS-1401,PRM9301590,SS-0346,Suburban area,Semi,Heat pump,No heating,1ph,1ph,UG,N,100 amp,PME,11.5kVA,N,,5.06 kW,,,,,,,Y,,Y,.95,,,,,0,28 WD,2
+LC-52137,InstallerLine,1,INS-1380,PRM9301108,SS-0109,Rural area,Detached,EV charger,Routine,1ph,1ph,UG,N,80 amp,TT,50A,N,,32A,,,,,,,Y,Y,,,,240Ω,,,0,30 WD,2
+LC-52224,InstallerLine,1,INS-1383,PRM9301811,SS-0213,Suburban area,Semi,Solar panels,Routine,1ph,1ph,UG,N,80 amp,PME,8.74kVA,N,,,,3.68 kVA,0 kVA,N,,,Y,,,,,,Y,N,0,10 WD,2
+52155,SiteWren,1,INS-1467,PRM9301933,SS-0516,RUR,DET,BESS,STD,1,1,U/G,FALSE,100,TNCS,44,FALSE,-,-,5750W,5000W,"3,680 W",TRUE,TRUE,3680W,TRUE,-,-,-,-,-,TRUE,TRUE,1,8 working days,2
+LC-52128,InstallerLine,1,INS-1344,PRM9301479,SS-0421,Suburban area,Detached,Heat pump,Routine,1ph,1ph,UG,N,80 amp,PME,10.8kVA,N,,3.9 kW,,,,,,,Y,,N,0.93,,,,,0,26 WD,3
+LCT0052151,Wattcroft,1,INS-1214,PRM9301543,SS-0269,Suburban,Detached house,heat pump,Standard,three,three,Underground,No,100A,TN-C-S,30A,No,N/A,9A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,N/A,Yes,0.97,N/A,N/A,N/A,N/A,0,8,3
+LCT0052229,Wattcroft,1,INS-1207,PRM9301325,SS-0519,Urban,Terraced house,EV charge point,Standard,single,single,Underground,No,60A,TN-C-S,60A,No,N/A,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,Yes,N/A,N/A,Yes,N/A,N/A,N/A,0,9,2
+LC-52181,InstallerLine,1,INS-1329,PRM9301577,SS-0520,Urban area,Terrace,Heat pump,Routine,1ph,1ph,UG,Y,60 amp,PME,15.18kVA,N,,16A,,,,,,,Y,,Y,.96,,,,,0,12 WD,3
+52217,SiteWren,1,INS-1493,PRM9301623,SS-0173,RUR,FARM,HP,STD,1,1,U/G,FALSE,100,TNCS,48,FALSE,-,-,-,-,-,-,-,-,TRUE,-,TRUE,96%,-,-,-,-,0,15 working days,3
+LCT0052132,Wattcroft,1,INS-1214,PRM9301917,SS-0121,Suburban,Detached house,Battery storage,Standard,single,single,Underground,No,100A,TN-C-S,46A,No,N/A,N/A,20A,8kW,0kW,Yes,Yes,3.68kW,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,1,16,3
+LCT0052215,Wattcroft,1,INS-1256,PRM9302091,SS-0279,Suburban,Detached house,Vehicle-to-grid charge point,standard,single,single,Underground,No,100A,TN-S,50A,No,N/A,32A,N/A,7kW,0kW,Yes,Yes,3.68kW,Yes,Yes,N/A,N/A,N/A,N/A,Yes,N/A,0,14,3
+LCT0052109,Wattcroft,1,INS-1228,PRM9301065,SS-0413,Suburban,Detached house,EV charge point,Standard,single,single,Underground,No,80A,TN-C-S,52A,No,N/A,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,Yes,N/A,N/A,No,N/A,N/A,N/A,0,36,3
+LC-52178,InstallerLine,1,INS-1344,PRM9301977,SS-0150,Urban area,Semi,Home battery,Routine,1ph,1ph,UG,N,60 amp,PME,42A,N,,,,3 kVA,3.68 kVA,Y,TBC,3.68 kW,Y,,,,,,Y,Y,1,10 WD,3
+52139,SiteWren,1,INS-1483,PRM9301502,SS-0408,RUR,BUNG,HP,STD,1,1,O/H,FALSE,100,TT,46,FALSE,-,3910W,-,-,-,-,-,-,TRUE,-,unknown,-,-,-,-,-,0,17 working days,1
+52169,SiteWren,1,INS-1481,PRM9301751,SS-0110,SUB,BUNG,PV,STD,1,1,U/G,FALSE,80,TNCS,36,FALSE,-,-,-,-,0W,FALSE,-,-,TRUE,-,-,-,-,-,TRUE,TRUE,0,8 working days,2
+LCT0052240,Wattcroft,1,INS-1220,PRM9301857,SS-0133,Suburban,Detached house,Solar PV,Standard,single,single,Underground,No,100A,TN-C-S,40A,No,N/A,N/A,N/A,2.5kW,1.5kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,1,11,3
+LC-52118,InstallerLine,2,INS-1273,PRM9301001,SS-0412,Rural area,Semi,EV charger,Routine,1ph,1ph,UG,N,80 amp,PME,13.3kVA,N,,32A,,,,,,,Y,Y,,,TBC,,,,0,10 WD,3
+LC-52118,InstallerLine,1,INS-1273,PRM9301001,SS-0412,Rural area,Semi,EV charger,Routine,1ph,1ph,UG,N,80 amp,TN-S,13.3kVA,N,,40A,,,,,,,Y,Y,,,,,,,0,10 WD,3
+LCT0052104,Wattcroft,1,INS-1270,PRM9301017,SS-0293,Urban,Terraced house,EV charge point,Standard,single,single,Underground,No,100A,TN-C-S,58A,No,N/A,32A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,yes,N/A,N/A,Yes,N/A,N/A,N/A,0,10,3
+LCT0052199,Wattcroft,1,INS-1246,PRM9301989,SS-0347,Urban,terraced house,Battery storage,Standard,single,single,Underground,No,80A,TN-C-S,61A,No,N/A,N/A,16A,3.68kW,0kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,0,10,2
+LCT0052107,Wattcroft,1,INS-1222,PRM9301701,SS-0331,Suburban,Semi-detached house,Solar PV,Standard,single,single,Underground,No,80A,TN-C-S,35A,No,N/A,N/A,N/A,3.68kW,0kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,0,7,3
+LC-52211,InstallerLine,1,INS-1386,PRM9301300,SS-0411,Suburban area,Terrace,EV charger,Routine,1ph,1ph,UG,N,60 amp,SNE,10.35kVA,N,,,,,,,,,Y,TBC,,,,,,,0,16 WD,1
+LC-52131,InstallerLine,1,INS-1329,PRM9301888,SS-0107,Suburban area,Semi,Home battery,Routine,1ph,1ph,UG,N,60 amp,PME,48A,N,,,20A,6 kW,0 kW,Y,Y,3.68 kW,Y,,,,,,Y,Y,0,14 WD,3
+52203,SiteWren,1,INS-1491,PRM9301666,SS-0178,RUR,FARM,PV,STD,1,1,U/G,FALSE,60,TNS,38,FALSE,-,-,-,5000W,0W,FALSE,-,-,TRUE,-,-,-,-,-,TRUE,TRUE,0,9 working days,3
+52125,SiteWren,1,INS-1475,PRM9301078,SS-0198,RUR,BUNG,EVCP,STD,1,1,O/H,FALSE,100,TT,44,FALSE,-,32,-,-,-,-,-,-,TRUE,TRUE,-,-,-,0.15kΩ,-,-,0,14 working days,2
+52236,SiteWren,1,INS-1467,PRM9302037,SS-0314,SUB,SEMI,BESS,STD,1,1,U/G,FALSE,100,TNCS,40,FALSE,-,-,16,"3,680 W",0W,FALSE,-,-,TRUE,-,-,-,-,-,TRUE,TRUE,0,9 working days,3
+LC-52244,InstallerLine,1,INS-1273,PRM9302208,SS-0390,Rural area,Bungalow,V2G charger,Routine,1ph,1ph,OH,N,100 amp,TT,46A,N,,32A,,3.6 kW,0 kW,N,,,Y,Y,,,,200Ω,Y,,0,9 WD,2
+52166,SiteWren,1,INS-1438,PRM9301381,SS-0107,SUB,SEMI,HP,HTG-FAIL,1,1,U/G,FALSE,100,TNCS,52,FALSE,-,18,-,-,-,-,-,-,TRUE,-,TRUE,96%,-,-,-,-,1,9 working days,3
+LCT0052146,Wattcroft,1,INS-1220,PRM9301736,SS-0288,Urban,Terraced house,Solar PV,Standard,single,single,Underground,No,60A,TN-C-S,34A,No,N/A,N/A,N/A,3kW,0kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,not recorded,N/A,0,14,2
+LCT0052190,Wattcroft,1,INS-1246,PRM9301422,SS-0298,Urban,Terraced house,Heat pump,Heating failed,single,single,Underground,No,100A,TN-S,55A,No,N/A,28A,N/A,N/A,N/A,N/A,N/A,N/A,Yes,N/A,Yes,0.97,N/A,N/A,N/A,N/A,2,10,3
+LCT0052107,Wattcroft,1,INS-1222,PRM9301701,SS-0331,Suburban,Semi-detached house,Solar PV,Standard,single,single,Underground,No,80A,TN-C-S,35A,No,N/A,N/A,N/A,3.68kW,0kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,0,7,3
+LCT0052183,Wattcroft,1,INS-1222,PRM9301758,SS-0456,Rural,Farmhouse,Solar PV,Standard,3-phase,3-phase,Underground,No,100A,TN-C-S,28A,No,N/A,N/A,N/A,10kW,0kW,No,N/A,N/A,Yes,N/A,N/A,N/A,N/A,N/A,Yes,Yes,0,11,3
